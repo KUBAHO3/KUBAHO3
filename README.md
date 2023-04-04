@@ -59,7 +59,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/KUBAHO3/React-confusionRestourant/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KUBAHO3&repo=React-Reastourant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KUBAHO3&repo=React-confusionRestourant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
 <a href="https://github.com/KUBAHO3/Python-Django-Auth/">
