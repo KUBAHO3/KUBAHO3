@@ -32,7 +32,6 @@
   <code><img title="Numpy" height="25" src="images/numpy.svg"></code>
   <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
   <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
