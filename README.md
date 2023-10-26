@@ -9,12 +9,12 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Kubaho Linne Heaven, Computer Engineer & Software Developer from India
+  Hi, I'm Kubaho Linne Heaven, a Computer Engineer & Software Developer from Rwanda
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Koneru Lakshimiaih University Computer Science and Applications (BCA)
+  👨‍🎓 I graduated with a Bachelor's degree in Koneru Lakshimiaih University Computer Science and Applications (BCA)
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code and hardware and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Web development 
   <br>
