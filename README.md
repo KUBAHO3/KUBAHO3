@@ -24,14 +24,6 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Numpy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -39,6 +31,12 @@
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
@@ -54,19 +52,6 @@
  </a>
 </p>
 
-<hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/KUBAHO3/React-confusionRestourant/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KUBAHO3&repo=React-confusionRestourant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/KUBAHO3/Python-Django-Auth/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KUBAHO3&repo=Python-Django-Auth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-</p>
 
 <hr>
 <p align="center">
